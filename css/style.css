@@ -577,3 +577,19 @@ a {
 	font-size: 12px;
 	letter-spacing: 0pt;
 }
+
+
+
+@media (max-width : 600px) {
+  .ytcontainer{
+	 align-self: stretch;
+	 padding: 5px;
+  }
+}
+
+@media (min-width : 601px){
+  .ytcontainer{
+	width: 601px;
+	padding: 5px;	  
+  }
+}
