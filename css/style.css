@@ -584,9 +584,9 @@ a {
   }
 }
 
-@media (min-width: 601px) {
+@media (min-width: 375px) {
   .ytcontainer {
-    width: 601px;
+    width: 375px;
     padding: 5px;
   }
 }
