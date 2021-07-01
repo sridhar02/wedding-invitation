@@ -577,6 +577,11 @@ a {
   letter-spacing: 0pt;
 }
 
+.ytcontainer {
+  display: flex;
+  justify-content: center;
+}
+
 @media (max-width: 600px) {
   .ytcontainer {
     align-self: stretch;
@@ -584,13 +589,9 @@ a {
   }
 }
 
-@media (min-width: 375px) {
+@media (min-width: 601px) {
   .ytcontainer {
-    width: 375px;
+    width: 601px;
     padding: 5px;
   }
-}
-.ytcontainer {
-  display: flex;
-  justify-content: center;
 }
