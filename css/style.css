@@ -382,8 +382,9 @@ img {
   font-family: "Dancing Script", cursive;
   font-weight: bold;
   font-style: normal;
-  font-size: 60px;
-  margin: 32px 0;
+  font-size: 50px;
+  margin: 10px 0;
+
   color: #674ea7;
 }
 
@@ -393,7 +394,7 @@ img {
   font-style: normal;
   margin: 0;
   padding: 0;
-  font-size: 24px;
+  font-size: 20px;
   color: #e25c67;
   line-height: 1;
 }
@@ -411,18 +412,18 @@ img {
 .title h3 {
   font-weight: 300;
   text-transform: uppercase;
-  letter-spacing: 5px;
-  font-size: 24px;
+  letter-spacing: 4px;
+  font-size: 18px;
   color: #674ea7;
   margin-top: 5px;
 }
 
 .title p {
   color: #564861;
-  margin: 30px 0 20px;
+  margin: 15px 0 10px;
   text-transform: uppercase;
-  letter-spacing: 3px;
-  font-size: 16px;
+  letter-spacing: 1.5px;
+  font-size: 14px;
 }
 
 .wrap {
@@ -458,7 +459,7 @@ body {
 }
 
 .title {
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 #time {
