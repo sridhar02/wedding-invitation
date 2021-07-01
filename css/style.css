@@ -590,3 +590,7 @@ a {
     padding: 5px;
   }
 }
+.ytcontainer {
+  display: flex;
+  justify-content: center;
+}
